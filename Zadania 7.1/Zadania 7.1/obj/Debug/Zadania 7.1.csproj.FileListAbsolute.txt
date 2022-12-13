@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\bin\Debug\Zadania 7.1.exe.config
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\bin\Debug\Zadania 7.1.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\bin\Debug\Zadania 7.1.pdb
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\obj\Debug\Zadania 7.1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\obj\Debug\Zadania 7.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\obj\Debug\Zadania 7.1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\obj\Debug\Zadania 7.1.exe
+C:\Users\Пользователь\Desktop\Учебная практика (осень) 3 курс\3 неделя\7 задание\Zadania 7.1\Zadania 7.1\obj\Debug\Zadania 7.1.pdb
